@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="wrapper space-y-6 lg:space-y-0 flex-col lg:flex-row w-fit lg:space-x-20 lg:mx-auto flex">
 
             <div className="vishal lg:px-24 space-y-5 lg:w-1/2">
-              <h3 className='font-DancingScript text-7xl'>Vishal Chaurasia</h3>
+              <h3 className='font-DancingScript text-7xl'>Arnav Singh</h3>
               <p className='text-xl font-jost'>I am a full stack developer with a passion for coding. I enjoy working on projects late into the night and always strive to improve my skills.</p>
             </div>
 
@@ -35,7 +35,7 @@ const Footer = () => {
                 <Link target={'_blank'} to='https://the-insight-news.vercel.app/'>
                   <li className='ml-8'>The Insight News</li>
                 </Link>
-                <Link target={'_blank'} to='https://vishalchaurasia10.github.io/Notes-Web-App/'>
+                <Link target={'_blank'} to='https://github.com/arnvsnigi/cloudscribe/'>
                   <li className='ml-8'>Todo App</li>
                 </Link>
               </ul>
