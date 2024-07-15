@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="wrapper space-y-6 lg:space-y-0 flex-col lg:flex-row w-fit lg:space-x-20 lg:mx-auto flex">
 
             <div className="vishal lg:px-24 space-y-5 lg:w-1/2">
-              <h3 className='font-DancingScript text-7xl'>Harsh</h3>
+              <h3 className='font-DancingScript text-7xl'>Harshit</h3>
               <p className='text-xl font-jost'>I am a full stack developer with a passion for coding. I enjoy working on projects late into the night and always strive to improve my skills.</p>
             </div>
 
